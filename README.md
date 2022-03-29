@@ -1,1 +1,2 @@
 # VehiclePlatooningwithLateralControl
+Open and run 'VehiclePlatooningWithLateralControlExample.mlx'
